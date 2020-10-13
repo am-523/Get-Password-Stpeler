@@ -1,0 +1,12 @@
+D:\AW 17\Source Code Visual Studio 19\XStealer-master\XStealer\bin\Debug\XStealer.exe.config
+D:\AW 17\Source Code Visual Studio 19\XStealer-master\XStealer\bin\Debug\XStealer.exe
+D:\AW 17\Source Code Visual Studio 19\XStealer-master\XStealer\bin\Debug\XStealer.pdb
+D:\AW 17\Source Code Visual Studio 19\XStealer-master\XStealer\bin\Debug\BouncyCastle.Crypto.dll
+D:\AW 17\Source Code Visual Studio 19\XStealer-master\XStealer\obj\Debug\XStealer.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\XStealer-master\XStealer\obj\Debug\XStealer.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\XStealer-master\XStealer\obj\Debug\XStealer.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\XStealer-master\XStealer\obj\Debug\XStealer.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\XStealer-master\XStealer\obj\Debug\XStealer.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\XStealer-master\XStealer\obj\Debug\XStealer.csproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\XStealer-master\XStealer\obj\Debug\XStealer.exe
+D:\AW 17\Source Code Visual Studio 19\XStealer-master\XStealer\obj\Debug\XStealer.pdb
